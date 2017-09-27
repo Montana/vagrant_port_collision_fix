@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 ##
 #  Show the user what we're looking to remove from the network configs.
 ##
