@@ -5,6 +5,6 @@ A simple hack that fixes the "2222" port collision problem in Vagrant if you're 
 
 then 
 
-<pre>./vagrant.sh 2222</pre> 
+<pre>./vagrant.sh 2222 (or whatever port in question)</pre> 
 
 enjoy 
