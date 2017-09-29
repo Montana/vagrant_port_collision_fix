@@ -7,4 +7,8 @@ then
 
 <pre>./vagrant.sh 2222 (or whatever port in question)</pre> 
 
+so for example if the problem is on port 8080 run 
+
+<pre>./vagrant.sh 8080</pre> 
+
 enjoy 
